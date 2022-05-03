@@ -19,14 +19,14 @@ $(document).ready(function(){
 
     // typing animation script
     var typed = new Typed(".typing", {
-        strings: ["Front-end", "UX designer", "YouTuber", "Freelancer"],
+        strings: ["Front-end", "UX designer", "YouTuber", "Power BI"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     })
 
     var typed = new Typed(".typing-2", {
-        strings: ["Front-end", "UX designer", "YouTuber", "Freelancer"],
+        strings: ["Front-end", "UX designer", "YouTuber", "Power BI"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
